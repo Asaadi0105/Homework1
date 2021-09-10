@@ -30,5 +30,6 @@ public class Task6 {
         result = result.replace(letter2, sNum2);
         result = result.replace(letter3, sNum3);
         System.out.println(result);
+        System.out.println();
     }
 }
